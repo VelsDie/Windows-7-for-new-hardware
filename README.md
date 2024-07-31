@@ -13,8 +13,10 @@ special thanks to: <a href="https://www.reddit.com/user/SevoosMinecraft/">u/Sevo
 
 # INSTALLATION GUIDE
 
-## install the iso from here:
-## install the thinkpad t480 drivers here:
+## install the iso from
+here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new-hardware/releases/tag/iSO">iSO</a>
+## install the thinkpad t480 drivers from
+here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new-hardware/releases/tag/DRIVERS">Drivers</a>
 
 ## the guide is seperated into three types: normal installation, booting from VHD, booting from an external drive (hdd/ssd)
 
