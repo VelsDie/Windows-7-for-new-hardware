@@ -6,8 +6,10 @@
 
 <h1> NOTE: This guide might not work for you, its tested on the ThinkPad T480, i am NOT RESPONSIBLE for any bricked devices or data loss. </h1>
 this iSO was made for an Thinkpad T480 but might work to similar laptops, ONLY FOR INTEL CPU!!!
-<br>
+
 special thanks to: <a href="https://www.reddit.com/user/SevoosMinecraft/">u/Sevoos</a> for his help, to <a href="https://www.sevenforums.com/members/siw2.html">SIW2</a> for the installation media! and to <a href="https://www.reddit.com/user/gutenprint19/">u/gutenprint19</a> for sharing the driver pack for the t480
+
+<br> the iso comes with usb 3.0 drivers out of the box, which is important to install in a new hardware, the display, wlan, ethernet and more drivers might not work for you out of the box, that is why the drivers are given in the releses. <br>
 
 ## So before i start with the guide, this is tested on the thinkpad t480, with an intel cpu, it will not work any computer with a amd cpu, please give feedback on the other models of laptops
 
