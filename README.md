@@ -45,14 +45,14 @@ you will need: a pc running windows, an usb stick (minimum 8GB of space)
 17. and then just fast forward it, make sure its NTFS
 18. now power off the laptop and plug in your usb
 19. boot into bios via f1 (or f2,esc or any key for your pc)
-20. Open the Security tab, and then select Secure Boot menu. Select Secure Boot, and then select Disabled, press f10 to save and exit
+20. Open the Security tab, and then select Secure Boot menu. Select Secure Boot, and then select Disabled, after that go into the boot section and enable CSM support, press f10 to save and exit
 21. enter the boot menu via f12 (in thinkpads, on other models could be diffrent)
 22. and boot from the usb
 23. now you can just proceed with the installation, make sure you install on the correct partition
-24. after its done just install the drivers from the driver pack, put them on a usb or go into your main partition and find it (for thinkpads only, some drivers like the wlan,display,audio might work on other laptops)
+24. after its done just install the drivers from the driver pack, put them on a usb or go into your main partition and find it (for thinkpads only, some drivers like the wlan,display,audio might work on other laptops other than that, you will have to find them yourself) 
 25. now you are all done!
 
-NOTE: doing this will mix your windows 10/11 boot manager with windows 7, which will give 7 the priority, to fix this you can burn a windows 10/11 iso to a usb stick and repair the boot manager.
+NOTE: doing this will mix your windows 10/11 boot manager with windows 7, which will give 7 the priority, to fix this you can burn a windows 10/11 iso to a usb stick and repair the boot manager, and you have to enable CSM support everytime you boot into windows 7, i recommend keeping it off when you are not booting into windows 7
 
 ## Booting from a VHD (Virtual Hard Disk)
 
@@ -84,7 +84,50 @@ for vm i suggest orcale vm virtualbox, you can get it from <a href="https://www.
 21. select your usb and isntall, it will ask you if you are sure twice, just click ok
 22. after its done go into your usb stick and make a folder on the root and name it ventoy
 23. in the folder that you just made paste this file <a href="https://cdn.discordapp.com/attachments/1262319934202056716/1267514363766640670/ventoy_vhdboot.img?ex=66ad04bd&is=66abb33d&hm=922f6666e768df4a434369ac21b21f6c1ba44fce7aeb787ce1b01ecbd960036c&">ventoy_vhdboot file</a> 
-24. 
+24. after that power off your laptop with the usb plugged in
+25. go into bios via f1 (for the t480 its f1, if youre trying this on a diffrent model it could be f2, or esc or something else)
+26. Open the Security tab, and then select Secure Boot menu. Select Secure Boot, and then select Disabled, then go into boot section and enable CSM support, press f10 to save and exit
+27. enter the boot menu via f12 (in thinkpads, on other models could be diffrent)
+28. boot from the usb
+29. after that the ventoy menu should appear
+30. press f2 and enter your main drive/partitionl
+31. and find the vhd you made
+32. enter it and it should boot
+33. and you are done! windows 7 should proceed normally with the installation, after its done downloading, for t480 users just use the driver pack i gave the link of amd install the drvers (for non t480 users, you will have to find the drivers yourself). note that the wlan and ethernet drivers do not come out of the box.
+
+this will not mix your efi partitions and its a safe way to use windows 7, only bad side of its that you have to use the USB everytime you want to boot into windows 7, and you will have to enable CSM support everytime you want to boot, i recommend keeping it off when you are not booting or using windows 7
+
+## Booting windows 7 off an external drive (hdd/ssd)
+
+### this way of booting windows is great if you dont have much space, dont want to mix your efi folders, make use of an sata hdd/sdd and more
+
+for this you will need an external drive that is via usb, or an sata to usb adapter, NOTE that this method needs a clean disk, so back up your important data from the disk, you can put them back after the installation, this method can work via big enough usb or sd card too, this method only works with VHD!
+
+1. first install the iso
+2. plug in your external drive
+3. then install WinToUSB from here <a href="https://www.easyuefi.com/wintousb/">WinToUSB</a>
+4. install WinToUSB setup and finsh it
+5. open the programe
+6. select the Windows To Go option
+7. select the given iso
+8. select your external drive
+9. select the partition scheme as MBR
+10. select the installation mode as VHD and enter the size
+11. leave the rest as default and start the process
+12. after its done turn off your laptop with the external drive plugged in
+13. go into bios via f1 (for the t480 its f1, if youre trying this on a diffrent model it could be f2, or esc or something else)
+14. Open the Security tab, and then select Secure Boot menu. Select Secure Boot, and then select Disabled, after that go into the boot section and enable CSM support, press f10 to save and exit
+15. enter the boot menu via f12 (in thinkpads, on other models could be diffrent)
+16. boot from the external drive
+17. and you are done! windows 7 should proceed normally with the installation, after its done downloading, for t480 users just use the driver pack i gave the link of amd install the drvers (for non t480 users, you will have to find the drivers yourself). note that the wlan and ethernet drivers do not come out of the box.
+
+the only down side of this is that you have to keep your external drive on while using windows 7, other than that it will run little slower because it is booting and working from an USB.
+
+## And thats it, if you have any problems or errors (errors after installation or after the boot (NON BSOD) fix could be found on youtube or google, or forums), contact me from discord or email, or here, if you are intrested in hackintoshing your thinkpad t480, you can find my full guide and pre made working efi here: (if you are reading this, the repo is not made yet, stay tuned!)
+
+if you see this repo unprofessnioal, please be understanding, this is my first github repo, and if you see/spot any writing mistakes, please report them to me.
+
+thats all from me, i hope you have a great morning/day/afternoon/evening/night :)
 
 
 
