@@ -5,13 +5,14 @@
 ### need help? or have questions? contact me directly on discord! VelsDie, or email me! velsdie@gmail.com
 
 <h1> NOTE: This guide might not work for you, its tested on the ThinkPad T480, i am NOT RESPONSIBLE for any bricked devices or data loss. </h1>
-this iSO was made for an Thinkpad T480 but might work to similar laptops, ONLY FOR INTEL CPU!!!
+this iSO was made for an Thinkpad T480 but might work to similar laptops
+Please note that Windows 7 should not be used as a main/daily OS on a modern hardware, this is for experimental reasons and for the nostalgia, if you want this on a old computer as an main OS, please try Linux, distros like Linux Mint are lightweight,modern and easy to use, if you need windows, you can use Tiny10 till October 14, 2025, or Tiny11, if you want a modern OS but like the frutiger aero, chcek out href="https://classic7.lol">Classic7</a> which is windows 10 reskinned to look like windows 7.
 
 special thanks to: <a href="https://www.reddit.com/user/SevoosMinecraft/">u/Sevoos</a> for his help, to <a href="https://www.sevenforums.com/members/siw2.html">SIW2</a> for the installation media! and to <a href="https://www.reddit.com/user/gutenprint19/">u/gutenprint19</a> for sharing the driver pack for the t480
 
 <br> the iso comes with usb 3.0 drivers out of the box, which is important to install in a new hardware, the display, wlan, ethernet and more drivers might not work for you out of the box, that is why the drivers are given in the releses. <br>
 
-## So before i start with the guide, this is tested on the thinkpad t480, with an intel cpu, it will not work any computer with a amd cpu, please give feedback on the other models of laptops
+## So before i start with the guide, this is tested on the thinkpad t480, please give feedback on the other models of laptops
 
 # INSTALLATION GUIDE
 
