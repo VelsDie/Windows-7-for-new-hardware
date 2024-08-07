@@ -116,7 +116,7 @@ for this you will need an external drive that is via usb, or an sata to usb adap
 2. plug in your external drive
 3. then install WinToUSB from here <a href="https://www.easyuefi.com/wintousb/">WinToUSB</a>
 4. install WinToUSB setup and finsh it
-5. open the programe
+5. open the program
 6. select the Windows To Go option
 7. select the given iso
 8. select your external drive
