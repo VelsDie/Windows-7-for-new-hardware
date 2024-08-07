@@ -21,7 +21,7 @@ here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new
 
 or as a pure iso from google drive: <a href="https://drive.google.com/file/d/1M1Q5rk4UIOoCkRZWmCzw3ostNnrbqdAD/view?usp=drivesdk">pure iso</a>
 
-**I do not provide a license for Windows 7. Distributing or using software without a valid license is against copyright law and sonstitutes piracy.**
+**I do not provide a license for Windows 7. Distributing or using software without a valid license is against copyright law and constitutes piracy.**
 
 If you do not trust my iso, you can create your own modded iso with drivers slipstreamed from this guide that i used <a href="https://www.sevenforums.com/installation-setup/415754-update-your-win-7-installation-media.html">Installation media guide from SIW2</a>
 
