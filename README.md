@@ -90,7 +90,7 @@ for vm i suggest orcale vm virtualbox, you can get it from <a href="https://www.
 18. now get your usb stick and plug it in, and if you have anything important there, just back it up
 19. install ventoy from here <a href="https://ventoy.net/en/download.html">Ventoy</a>
 20. unzip the ventoy file and run the ventoy2disk
-21. select your usb and isntall, it will ask you if you are sure twice, just click ok
+21. select your usb and install, it will ask you if you are sure twice, just click ok
 22. after its done go into your usb stick and make a folder on the root and name it ventoy
 23. in the folder that you just made paste this file <a href="https://cdn.discordapp.com/attachments/1262319934202056716/1267514363766640670/ventoy_vhdboot.img?ex=66ad04bd&is=66abb33d&hm=922f6666e768df4a434369ac21b21f6c1ba44fce7aeb787ce1b01ecbd960036c&">ventoy_vhdboot file</a> 
 24. after that power off your laptop with the usb plugged in
