@@ -4,8 +4,7 @@
 
 ### need help? or have questions? contact me directly on discord! VelsDie, or email me! velsdie@gmail.com
 
-</h1> NOTE: This guide might not work for you, its tested on the ThinkPad T480, i am NOT RESPONSIBLE for any bricked devices or data loss. </h1>
-this iSO was made for an Thinkpad T480 but might work to similar laptops </h1>
+**NOTE:** This guide might not work for you, it's tested on the ThinkPad T480. I am NOT RESPONSIBLE for any bricked devices or data loss. This ISO was made for a ThinkPad T480 but might work on similar laptops.
 <br> <br>
 Please note that Windows 7 should not be used as a main/daily OS on a modern hardware, this is for experimental reasons and for the nostalgia, if you want this on a old computer as an main OS, please try Linux, distros like Linux Mint are lightweight,modern and easy to use, if you need windows, you can use Tiny10 till October 14, 2025, or Tiny11, if you want a modern OS but want frutiger aero and the nostalgia, check out <a href="https://classic7.lol/">Classic7</a> which is windows 10 reskinned to look like windows 7.
 <br> <br>
@@ -22,14 +21,16 @@ here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new
 
 or as a pure iso from google drive: <a href="https://drive.google.com/file/d/1M1Q5rk4UIOoCkRZWmCzw3ostNnrbqdAD/view?usp=drivesdk">pure iso</a>
 
-i DO NOT give licanse of windows 7, that is a against the copyright law and it is piracy. If you do not trust my iso, you can create your own modded iso with drivers slipstreamed from this guide that i used <a href="https://www.sevenforums.com/installation-setup/415754-update-your-win-7-installation-media.html">Installation media guide from SIW2</a>
+**I do not provide a license for Windows 7. Distributing or using software without a valid license is against copyright law and sonstitutes piracy.**
+
+If you do not trust my iso, you can create your own modded iso with drivers slipstreamed from this guide that i used <a href="https://www.sevenforums.com/installation-setup/415754-update-your-win-7-installation-media.html">Installation media guide from SIW2</a>
 
 
 
 ## install the thinkpad t480 drivers from
 here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new-hardware/releases/tag/DRIVERS">Drivers</a>
 
-## the guide is seperated into three types: normal installation, booting from VHD, booting from an external drive (hdd/ssd)
+## the guide is separated into three types: normal installation, booting from VHD, booting from an external drive (hdd/ssd)
 
 ### Normal installation 
 
@@ -48,7 +49,7 @@ you will need: a pc running windows, an usb stick (minimum 8GB of space)
 11. type diskmgmt.msc
 12. select a partition/disk that you want to install windows in (if you have an partition made for it skip this step)
 13. right click that partition/disk and select shrink volume
-14. enter the size of the partition you want (minimum 20GB) IN MB (exmpl. 20000mb for 20gb)
+14. enter the size of the partition you want (minimum 20GB) IN MB (e.g. 20000mb for 20gb)
 15. click ok and wait for it to complete
 16. select the new unlocated partition and right click on it and select new simple volume
 17. and then just fast forward it, make sure its NTFS
@@ -81,7 +82,7 @@ for vm i suggest orcale vm virtualbox, you can get it from <a href="https://www.
 9. then leave everything as default and create it
 10. after its created go down and select the VHD
 11. right click on it and click on initialize disk and select it as MBR
-12. Then deatach the vhd
+12. Then detach the vhd
 13. now open your VM as admin
 14. make a new machine
 15. select the iso as the given iso and name the machine as Windows 7 and click on skip unattended installation
@@ -134,7 +135,7 @@ the only down side of this is that you have to keep your external drive on while
 
 ## And thats it, if you have any problems or errors (errors after installation or after the boot (NON BSOD) fix could be found on youtube or google, or forums), contact me from discord or email, or here, if you are intrested in hackintoshing your thinkpad t480, you can find my full guide and pre made working efi here: (if you are reading this, the repo is not made yet, stay tuned!)
 
-if you see this repo unprofessnioal, please be understanding, this is my first github repo, and if you see/spot any writing mistakes, please report them to me.
+if you see this repo unprofessnional, please be understanding, this is my first github repo, and if you see/spot any writing mistakes, please report them to me.
 
 thats all from me, i hope you have a great morning/day/afternoon/evening/night :)
 
