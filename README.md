@@ -18,11 +18,13 @@ special thanks to: <a href="https://www.reddit.com/user/SevoosMinecraft/">u/Sevo
 # INSTALLATION GUIDE
 
 ## install the iso from
-here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new-hardware/releases/tag/iSO">iSO</a>
+here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new-hardware/releases/tag/iSO">iSO</a> (torrent)
+
+or as a pure iso from google drive: <a href="https://drive.google.com/file/d/1M1Q5rk4UIOoCkRZWmCzw3ostNnrbqdAD/view?usp=drivesdk">iSO</a>
 
 i DO NOT give licanse of windows 7, that is a against the copyright law and it is piracy. If you do not trust my iso, you can create your own modded iso with drivers slipstreamed from this guide that i used <a href="https://www.sevenforums.com/installation-setup/415754-update-your-win-7-installation-media.html">Installation media guide from SIW2</a>
 
-if you do trust my iso, but can not install because it is a torrent, contact me in discord, i will personally help you out.
+
 
 ## install the thinkpad t480 drivers from
 here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new-hardware/releases/tag/DRIVERS">Drivers</a>
