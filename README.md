@@ -10,7 +10,7 @@ Please note that Windows 7 should not be used as a main/daily OS on a modern har
 <br>  <br>
 special thanks to: <a href="https://www.reddit.com/user/SevoosMinecraft/">u/Sevoos</a> for his help, to <a href="https://www.sevenforums.com/members/siw2.html">SIW2</a> for the installation media! and to <a href="https://www.reddit.com/user/gutenprint19/">u/gutenprint19</a> for sharing the driver pack for the t480
 
-<br> the iso comes with usb 3.0 drivers out of the box, which is important to install in a new hardware, the display, wlan, ethernet and more drivers might not work for you out of the box, that is why the drivers are given in the releses. <br>
+<br> the iso comes with usb 3.0 drivers out of the box, which is important to install in a new hardware, the display, wlan, ethernet and more drivers might not work for you out of the box, lucky to T480 users, i have provided a driver pack for them, others, sadly have to find the drivers by themselves, from the manufacturer or community made. <br>
 
 ## So before i start with the guide, this is tested on the thinkpad t480, please give feedback on the other models of laptops
 
