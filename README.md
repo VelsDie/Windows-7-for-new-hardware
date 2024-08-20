@@ -129,7 +129,7 @@ for this you will need an external drive that is via usb, or an sata to usb adap
 14. Open the Security tab, and then select Secure Boot menu. Select Secure Boot, and then select Disabled, after that go into the boot section and enable CSM support, press f10 to save and exit
 15. enter the boot menu via f12 (in thinkpads, on other models could be diffrent)
 16. boot from the external drive
-17. and you are done! windows 7 should proceed normally with the installation, after its done downloading, for t480 users just use the driver pack i gave the link of amd install the drvers (for non t480 users, you will have to find the drivers yourself). note that the wlan and ethernet drivers do not come out of the box.
+17. and you are done! windows 7 should proceed normally with the installation, after its done downloading, for t480 users just use the driver pack i gave (for non t480 users, you will have to find the drivers yourself). note that the wlan and ethernet drivers do not come out of the box.
 
 the only down side of this is that you have to keep your external drive on while using windows 7, other than that it will run little slower because it is booting and working from an USB.
 
