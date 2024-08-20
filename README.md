@@ -124,7 +124,7 @@ for this you will need an external drive that is via usb, or an sata to usb adap
 9. select the partition scheme as MBR
 10. select the installation mode as VHD and enter the size
 11. leave the rest as default and start the process
-12. after its done turn off your laptop with the external drive plugged in
+12. after its done turn off your computer with the external drive plugged in
 13. go into bios via f1 (for the t480 its f1, if youre trying this on a diffrent model it could be f2, or esc or something else)
 14. Open the Security tab, and then select Secure Boot menu. Select Secure Boot, and then select Disabled, after that go into the boot section and enable CSM support, press f10 to save and exit
 15. enter the boot menu via f12 (in thinkpads, on other models could be diffrent)
