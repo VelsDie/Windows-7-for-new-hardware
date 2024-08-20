@@ -12,7 +12,7 @@ special thanks to: <a href="https://www.reddit.com/user/SevoosMinecraft/">u/Sevo
 
 <br> the iso comes with usb 3.0 drivers out of the box, which is important to install in a new hardware, the display, wlan, ethernet and more drivers might not work for you out of the box, lucky to T480 users, i have provided a driver pack for them, others, sadly have to find the drivers by themselves, from the manufacturer or community made. <br>
 
-## So before i start with the guide, this is tested on the thinkpad t480, please give feedback on the other models of laptops
+## So before i start with the guide, this is tested on the thinkpad t480, please give feedback on the other computers.
 
 # INSTALLATION GUIDE
 
