@@ -53,7 +53,7 @@ you will need: a pc running windows, an usb stick (minimum 8GB of space)
 15. click ok and wait for it to complete
 16. select the new unlocated partition and right click on it and select new simple volume
 17. and then just fast forward it, make sure its NTFS
-18. now power off the laptop and plug in your usb
+18. now power off the computer and plug in your usb
 19. boot into bios via f1 (or f2,esc or any key for your pc)
 20. Open the Security tab, and then select Secure Boot menu. Select Secure Boot, and then select Disabled, after that go into the boot section and enable CSM support, press f10 to save and exit
 21. enter the boot menu via f12 (in thinkpads, on other models could be diffrent)
