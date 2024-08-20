@@ -100,7 +100,7 @@ for vm i suggest orcale vm virtualbox, you can get it from <a href="https://www.
 27. enter the boot menu via f12 (in thinkpads, on other models could be diffrent)
 28. boot from the usb
 29. after that the ventoy menu should appear
-30. press f2 and enter your main drive/partitionl
+30. press f2 and enter your main drive/partition
 31. and find the vhd you made
 32. enter it and it should boot
 33. and you are done! windows 7 should proceed normally with the installation, after its done downloading, for t480 users just use the driver pack i gave the link of amd install the drvers (for non t480 users, you will have to find the drivers yourself). note that the wlan and ethernet drivers do not come out of the box.
