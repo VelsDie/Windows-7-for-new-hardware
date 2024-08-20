@@ -1,6 +1,6 @@
-# Windows-7-for-Thinkpad-T480-or-any-new-hardware
+# Windows-7-for-Thinkpad-any-new-hardware
 
-## A windows 7 tutorial for Thinkpad t480 or any new hardware, also for booting via VHD or booting off a external drive!
+## A windows 7 tutorial for originally Thinkpad t480 but can work any new hardware, also for booting via VHD or booting off a external drive!
 
 ### need help? or have questions? contact me directly on discord! VelsDie, or email me! velsdie@gmail.com
 
