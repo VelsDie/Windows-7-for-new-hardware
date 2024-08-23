@@ -30,6 +30,8 @@ If you do not trust my iso, you can create your own modded iso with drivers slip
 ## install the thinkpad t480 drivers from
 here: <a href="https://github.com/VelsDie/Windows-7-for-Thinkpad-T480-or-any-new-hardware/releases/tag/DRIVERS">Drivers</a>
 
+if you cannot download torrent files, here is the google drive link: <a href="https://drive.google.com/file/d/1ITZLzIEb4GfyjshSJrZouPwN1DO5vW8m/view?usp=drive_link">Google Drive Drivers</a>
+
 ## the guide is separated into three types: normal installation, booting from VHD, booting from an external drive (hdd/ssd)
 
 ### Normal installation 
