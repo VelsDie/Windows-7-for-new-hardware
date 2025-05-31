@@ -6,7 +6,7 @@
 
 **NOTE:** This guide might not work for you, it's tested on the ThinkPad T480. I am NOT RESPONSIBLE for any bricked devices or data loss. This ISO was made for a ThinkPad T480 but will work on any computer that has too new of a hardware.
 <br> <br>
-Please note that Windows 7 should not be used as a main/daily OS on a modern hardware, this is for experimental reasons and for the nostalgia, if you want this on a old computer as an main OS, please try Linux, distros like Linux Mint are lightweight,modern and easy to use, if you need windows, you can use Tiny10 till 2027, or Tiny11, if you want a modern OS but want frutiger aero and the nostalgia, check out <a href="https://classic7.lol/">Classic7</a> which is windows 10 reskinned to look like windows 7.
+Please note that Windows 7 should not be used as a main/daily OS on a modern hardware, this is for experimental reasons and for the nostalgia, if you want this on a old computer as an main OS, please try Linux, distros like Linux Mint are lightweight,modern and easy to use, if you need windows, you can use Tiny10 till 2027, or Tiny11, if you want a modern OS but want frutiger aero and the nostalgia, check out <a href="https://reunion7.com/">Reunion7</a> which is windows 10 reskinned to look like windows 7.
 <br>  <br>
 special thanks to: <a href="https://www.reddit.com/user/SevoosMinecraft/">u/Sevoos</a> for his help, to <a href="https://www.sevenforums.com/members/siw2.html">SIW2</a> for the installation media! and to <a href="https://www.reddit.com/user/gutenprint19/">u/gutenprint19</a> for sharing the driver pack for the t480
 
